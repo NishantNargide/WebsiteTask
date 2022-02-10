@@ -81,7 +81,7 @@ nav{
 .intro-text h1{
     font: size 30px;
     font-weight: 500;
-    background: linear-gradient(to right,#f7f7f7,#1111a0);
+    background: linear-gradient(to right,#f7f7f7,#00c3ff);
     -webkit-background-clip: text;
     background-clip:0;
     -webkit-text-fill-color: transparent;
